@@ -1,0 +1,10 @@
+dotenv
+langchain_groq
+langchain
+transformers
+langchain_community
+pypdf
+validators==0.28.1
+youtube_transcript_api
+streamlit
+streamlit
